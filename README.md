@@ -1,1 +1,1 @@
-# Google-LLC-
+recursive-include awscli/data *.json# Google-LLC-
